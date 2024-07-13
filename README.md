@@ -1,3 +1,7 @@
+NOTICE
+----------------------------------
+* Please check the lib/algoProperties.js to see algorithms that have been added. I havent updated them below!
+
 Features
 ----------------------------------
 * Daemon RPC interface
